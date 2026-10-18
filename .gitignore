@@ -31,3 +31,6 @@ data/*
 # Temporary Files
 *.log
 *.tmp
+
+# src
+src/*
